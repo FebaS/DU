@@ -1,60 +1,65 @@
-<html>
-<body>
-<b>Delhi University</b>
-<h1> Suggestion </h1>
-<table>
-<tr>
-<th> Tag </th>
-<th> Details</th>
-</tr>
-<tr>
-<td>Page Title</td>
-<td>yes.
-The Page title length of your page is 26 characters. Most search engines will truncate Page title to 65 characters.</td>
-</tr>
-<tr>
-<td>Admin Name</td>
-<td>Dr.Ajay Gupta</td>
-</tr>
-<tr>
-<td>Meta Description</td> 
-<td>Meta Description not Found : The meta description length of your page is 0 characters. Most search engines will truncate meta descriptions to 160 characters.</td>
-</tr>
-<tr>
-<td>Meta Keywords</td>
-<td>Meta keywords not Found : Google Does not accept meta keywords any more..</td>
-</tr>
-<tr>
-<td>Robots.txt</td>
-<td>404- Page not Found.
-site use a "robots.txt" file: http://du.ac.in/robots.txt</td>
-</tr>
-<tr>
 <td>Inline Css Test</td>
-<td>146(Inlines)</td>
+<td>Not Found</td>
+<td>webpage is not using use any inline CSS styles.</td>
+<td>it should use good Css styles</td> 
 </tr>
 <tr>
-<td>HTML Page size</td>
-<td>84.68kb.</td>
+<td>Underscores in Links Test	</td>
+<td>Very Good</td>
+<td>We have not found underscores in this in-page URLs</td>
+<td>Hyphens should be used instead of underscores.So this site does not use any underscores.</td>
 </tr>
 <tr>
-<td>HTML Compression </td>
-<td>gzip compression</td>
+<td> Favicon Test </td>
+<td>Found </td>
+<td>This website appears to have a favicon.</td>
+<td>Webpage can be easily recognized through Favicon.So This website should use favicone.</td>
 </tr>
 <tr>
-<td> Size </td>
-<td>33Kb</td>
+<td>SEO Friendly URL Test</td>
+<td>Not Good</td>
+<td> 9 internal urls found that are not seo friendly</td>
+<td>An SEO friendly url must contain only lower alphabets, numbers, slashes(/), dash(-). <br>
+<b>Underscores, upercase Alphabets and special chars (e-g: & ? %) are not seo friendly</b>.</td>
 </tr>
 <tr>
 <td>Page Rank</td>
-<td>7</td>
+<td>Good</td>
+<td>Page rank is 7/10.</td>
+<td>More backlinks need to be used to increase PR.</td>
 </tr>
 <tr>
-<td>Age</td>
-<td>28th February'2004 05:00:00 UTC</td>
-</tr>
-
-
+  <td>Page size</td><td >Very light</td><td >Page size is 77.58KB</td><td>The heavier the site page, the slower the load. For optimal performance, try to keep page size below 3MB</td>
+        </tr>
 </table>
+<p>
+<table>
+<tr>
+<td><b>ADMIN NAME:</b> <i>R.S Mani</i></td>
+</tr>
+</table>
+<p>
+<table>
+<tr>
+     <th> <u><b>Domain Age</b></u></th>
+    </tr>
+    <tr>
+      <td><b>Created on</b></td><td>23-Dec-2004 20:45:40 UTC</td>
+    </tr>
+    <tr>
+      <td><b>Age</b></td><td>12 Years,</td> </tr>
+    <tr>
+      <td><b>Last Updated</b></td><td>04-Oct-2016 09:54:10 UTC</td>
+    </tr>
+</table>
+<p>
+<table>
+    <tr>
+      <th><u><b>Load Time</b></u></th><th><b>SEO score</b></th><th><b>Speed score</b></th>
+    </tr>
+    <tr><td>11.5sec</td><td>68/100</td><td>73/100</td>
+    </tr>
+</table>
+<a href="http://smallseotools.com/website-seo-score-checker/" target="_blank"><img src="http://smallseotools.com/imgs/badge-silver.png" alt="seo checker"/></a>
 <body/>
 <html/>
