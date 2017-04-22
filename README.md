@@ -37,7 +37,7 @@ But here ,
 <tr>
 <td>Google Search Results Preview</td>
 <td>-Info- </td>
-<td>Indian Navy.</td>
+<td>Delhi University</td>
 <td><a href="https://du.ac.in/"><b>SEARCH</b></a>
         </td>
 </tr>
