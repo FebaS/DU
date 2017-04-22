@@ -1,7 +1,7 @@
 <html>
 <style>
 body{
-background-image: url("https://s-media-cache-ak0.pinimg.com/564x/2e/91/0f/2e910f64d86ddc7cae75a8f6f928a67e.jpg")}
+background-image: url("http://www.planwallpaper.com/static/images/Lamp-3D-Wallpaper_eAlxczz.jpg")}
 </style>
 <body>
 <b><h1 style="color:red">Delhi University</h1></b>
@@ -151,9 +151,9 @@ But here ,
     <tr>
       <th><u><b>Load Time</b></u></th><th><b>SEO score</b></th><th><b>Speed score</b></th>
     </tr>
-    <tr><td>11.5sec</td><td>68/100</td><td>73/100</td>
+    <tr><td>8.0sec</td><td>68/100</td><td>50/100</td>
     </tr>
 </table>
-<a href="http://smallseotools.com/website-seo-score-checker/" target="_blank"><img src="http://smallseotools.com/imgs/badge-silver.png" alt="seo checker"/></a>
+<a href="http://smallseotools.com/website-seo-score-checker/" target="_blank"><img src="http://smallseotools.com/imgs/badge-bronze.png" alt="seo checker"/></a>
 <body/>
 <html/>
